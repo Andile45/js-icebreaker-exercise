@@ -9,14 +9,12 @@ console.log(`I am patner 1 , my favorite movie is ${favMovie} , i have ${numSibl
 
 //=== Scenario 5
 let favFood = ["StreetWize","Inyama","Nkomazi"];
-
 //=== Scenario 6 
 let discountCode = "";
-
 //==== Scenario 7 
 let proflePic = null;
-
 //==== Scenario 8
 let starID = BigInt("1234567890123456789012345678901234567890");
-
+console.log(`My favourate meals are ${favFood} and I got them with a discount offer of ${discountCode}. The profile url is ${proflePic}
+             and the star Id is ${starID}`);
 
